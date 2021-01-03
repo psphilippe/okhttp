@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpsphilippe%2Fokhttp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpsphilippe%2Fokhttp?ref=badge_shield)
+
 OkHttp
 ======
 
@@ -176,3 +178,6 @@ limitations under the License.
  [recipes]: http://square.github.io/okhttp/recipes/
  [snap]: https://oss.sonatype.org/content/repositories/snapshots/
  [tls_history]: https://square.github.io/okhttp/tls_configuration_history/
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpsphilippe%2Fokhttp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpsphilippe%2Fokhttp?ref=badge_large)
